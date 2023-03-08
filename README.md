@@ -70,23 +70,23 @@ Routes
 
 
 
-URL	HTTP             |    Verb	        |     Actions
---------------------------------------------------
+- URL	HTTP             |    Verb	        |     Actions
+- --------------------------------------------------
 
-/auth/sign-up	       |    POST	        |     new
-/auth/login	         |    POST	        |     create
-/auth/logout	       |    DELETE	      |     destroy
+- /auth/sign-up	       |    POST	        |     new
+- /auth/login	         |    POST	        |     create
+- /auth/logout	       |    DELETE	      |     destroy
 
-/posts/	             |    GET	          |     index
-/posts/mine	         |    GET	          |     index
-/posts/              |    POST	        |     create
-/posts/:id	         |    PATCH	        |     update
-/posts/:id	         |    DELETE	      |     delete
+- /posts/	             |    GET	          |     index
+- /posts/mine	         |    GET	          |     index
+- /posts/              |    POST	        |     create
+- /posts/:id	         |    PATCH	        |     update
+- /posts/:id	         |    DELETE	      |     delete
 
-/replies/	           |    GET	          |     index
-/replies/:postId	   |    POST	        |     create
-/replies/:postId/:replyId|	PATCH 	    |     update
-/replies/:postId/:replyId|	DELETE	    |     delete
+- /replies/	           |    GET	          |     index
+- /replies/:postId	   |    POST	        |     create
+- /replies/:postId/:replyId|	PATCH 	    |     update
+- /replies/:postId/:replyId|	DELETE	    |     delete
 
 ## Stretch Goals
 
