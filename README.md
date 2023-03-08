@@ -46,7 +46,8 @@ A blog to share Sydnei's love of exploring, while juggling being a full-time stu
 
 ## Wireframes
 
-![image](https://user-images.githubusercontent.com/120183363/223729708-433f15b8-8bb9-4371-a555-3d848ce2d8f0.png)
+![WIRE FRAME - WANDER Blog](https://user-images.githubusercontent.com/120183363/223729857-3bcaeee2-2669-402a-b7c7-0a2514deff54.png)
+
 
 ## Entity Relationship Diagrams
 
