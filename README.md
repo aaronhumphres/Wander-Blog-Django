@@ -94,4 +94,7 @@ URL	HTTP             |    Verb	        |     Actions
 /replies/:postId/:replyId|	PATCH 	    |     update
 /replies/:postId/:replyId|	DELETE	    |     delete
 
-## Unsolved Problems / Major Hurdles
+## Stretch Goals
+
+Search trails by unique areas.. such as Lava, Canyon, Waterfall, etc...
+
