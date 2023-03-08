@@ -25,7 +25,7 @@ A blog to share Sydnei's love of exploring, while juggling being a full-time stu
 
 ### Link
 
-[TBC]
+TBD
 
 ## Approach
 
