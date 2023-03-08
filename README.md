@@ -57,6 +57,29 @@ A blog to share Sydnei's love of exploring, while juggling being a full-time stu
 
 ## Entity Relationship Diagrams
 
-!\
+Routes
+
+URL	HTTP Verb	Actions
+/auth/sign-up	POST	new
+/auth/login	POST	create
+/auth/logout	DELETE	destroy
+
+
+
+
+Posts
+URL	HTTP Verb	Actions
+/posts/	GET	index
+/posts/mine	GET	index
+/posts/	POST	create
+/posts/:id	PATCH	update
+/posts/:id	DELETE	delete
+
+Replies
+URL	HTTP Verb	Actions
+/replies/	GET	index
+/replies/:postId	POST	create
+/replies/:postId/:replyId	PATCH 	update
+/replies/:postId/:replyId	DELETE	delete
 
 ## Unsolved Problems / Major Hurdles
