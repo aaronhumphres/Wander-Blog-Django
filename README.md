@@ -1,6 +1,6 @@
 # Wander-Blog-Django
 
-# Project 4 Client
+# Project 4 Django
 
 ## Overview
 
