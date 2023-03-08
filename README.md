@@ -8,6 +8,7 @@ A blog to share Sydnei's love of exploring, while juggling being a full-time stu
 
 !
 
+![Sydnei Jeep](https://user-images.githubusercontent.com/120183363/223731849-24d7a3ed-6d07-45df-9b2f-903b9200eaaf.jpeg)
 
 
 
@@ -45,6 +46,9 @@ A blog to share Sydnei's love of exploring, while juggling being a full-time stu
 ```
 
 ## Wireframes
+
+![WIRE FRAME - WANDER Blog](https://user-images.githubusercontent.com/120183363/223731891-1cfdc25c-42b5-4340-aebf-99144d6d6ed8.png)
+
 
 <<<<<<< HEAD
 ![Alt text](IMAGES/WIRE%20FRAME%20-%20WANDER%20Blog.png)
