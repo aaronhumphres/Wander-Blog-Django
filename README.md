@@ -43,7 +43,7 @@ A blog to share Sydnei's love of exploring, while juggling being a full-time stu
 - As a signed in user, I would to comment on other users' blog posts.
 - As a signed in user, I would to update my blog posts and comments.
 - As a signed in user, I would to delete my blog posts and comments.
-```
+
 
 ## Wireframes
 
@@ -52,7 +52,7 @@ A blog to share Sydnei's love of exploring, while juggling being a full-time stu
 ## ERD
 ![Alt text](IMAGES/ERD.png)
 
-
+![Alt text](IMAGES/ERD.png)
 
 Routes
 
