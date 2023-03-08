@@ -13,6 +13,12 @@ A blog to share Sydnei's love of exploring, while juggling being a full-time stu
 ![Sydnei Jeep](https://user-images.githubusercontent.com/120183363/223731849-24d7a3ed-6d07-45df-9b2f-903b9200eaaf.jpeg)
 
 
+Posts will have trail subject and posts can include images about various points on trail.
+
+example - Mojave Trail Lava cave
+
+![Syd lava](https://user-images.githubusercontent.com/120183363/223755399-e8c5518d-76b8-4081-9cd7-a2375f4ad0fc.jpeg)
+![Syd lava 2](https://user-images.githubusercontent.com/120183363/223755419-d9be6cc1-cf5d-49a9-a51a-1d8632072b46.jpeg)
 
 
 ### Technologies Used
