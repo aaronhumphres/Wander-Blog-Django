@@ -19,7 +19,7 @@ example - Mojave Trail Lava Cave
 
 ![Syd lava](https://user-images.githubusercontent.com/120183363/223755399-e8c5518d-76b8-4081-9cd7-a2375f4ad0fc.jpeg)
 
-There will be a tips/tricks/safety section... let's face it, girls have different obstacles then many boys when exploring
+There will be a tips/maintenance/safety section... let's face it, girls have different obstacles then many boys when exploring
 
 ![Syd maintenance](https://user-images.githubusercontent.com/120183363/223761621-413760a7-57db-491d-9da2-f9a432fa2f0c.jpeg)
 ![Syd handgun course2](https://user-images.githubusercontent.com/120183363/223761639-6404168d-7de9-44a1-8abc-19caa3cbd337.jpeg)
