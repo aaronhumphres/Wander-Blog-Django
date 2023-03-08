@@ -4,6 +4,8 @@
 
 ## Overview
 
+A GIRL, a JEEP, and a PASSION TO EXPLORE!
+
 A blog to share Sydnei's love of exploring, while juggling being a full-time student. A way for her to communicate and meet other students that share the same passion.
 
 !
