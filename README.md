@@ -49,6 +49,9 @@ A blog to share Sydnei's love of exploring, while juggling being a full-time stu
 
 ![Alt text](IMAGES/WIRE%20FRAME.png)
 
+## ERD
+![Alt text](IMAGES/ERD.png)
+
 
 
 Routes
