@@ -49,9 +49,7 @@ A blog to share Sydnei's love of exploring, while juggling being a full-time stu
 <<<<<<< HEAD
 ![Alt text](IMAGES/WIRE%20FRAME%20-%20WANDER%20Blog.png)
 =======
-![WIRE FRAME - WANDER Blog](https://user-images.githubusercontent.com/120183363/223729857-3bcaeee2-2669-402a-b7c7-0a2514deff54.png)
 
->>>>>>> 93dda3f653976024cb2bb2084666a072cb61d6e6
 
 ## Entity Relationship Diagrams
 
