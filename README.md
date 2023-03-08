@@ -28,7 +28,6 @@ There will be a tips/maintenance/personal safety section... let's face it, girls
 ### Technologies Used
 
 - Django
-- React
 - HTML5
 - CSS
 - Node
