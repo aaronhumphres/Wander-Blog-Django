@@ -8,8 +8,6 @@ A GIRL, a JEEP, and a PASSION TO EXPLORE!
 
 A blog to share Sydnei's love of exploring, while juggling being a full-time student. A way for her to communicate and meet other students that share the same passion.
 
-!
-
 ![Sydnei Jeep](https://user-images.githubusercontent.com/120183363/223731849-24d7a3ed-6d07-45df-9b2f-903b9200eaaf.jpeg)
 
 
