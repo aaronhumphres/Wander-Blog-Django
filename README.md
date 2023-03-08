@@ -18,7 +18,7 @@ Posts will have trail subject and posts can include images about various points 
 example - Mojave Trail Lava Cave
 
 ![Syd lava](https://user-images.githubusercontent.com/120183363/223755399-e8c5518d-76b8-4081-9cd7-a2375f4ad0fc.jpeg)
-![Syd lava 2](https://user-images.githubusercontent.com/120183363/223755419-d9be6cc1-cf5d-49a9-a51a-1d8632072b46.jpeg)
+
 
 
 ### Technologies Used
