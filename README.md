@@ -46,7 +46,7 @@ As a signed in user, I would to delete my blog posts and comments.
 
 ## Wireframes
 
-!)
+!![Alt text](IMAGES/WIRE%20FRAME%20-%20WANDER%20Blog.png)
 
 ## Entity Relationship Diagrams
 
