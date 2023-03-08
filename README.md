@@ -68,10 +68,6 @@ TBD
 
 Routes
 
-URL	HTTP Verb	Actions
-/auth/sign-up	POST	new
-/auth/login	POST	create
-/auth/logout	DELETE	destroy
 
 
 URL	HTTP             |    Verb	        |     Actions
